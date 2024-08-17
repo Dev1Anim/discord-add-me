@@ -1,20 +1,20 @@
 {
-  "name": "discordid",
+  "name": "AddMeOnDiscord",
   "version": "2.0.0",
   "description": "A profile maker powered by Discord!",
-  "main": "discordid.js",
+  "main": "AddMeOnDiscord.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taichikuji/discordid.git"
+    "url": "git+https://github.com/taichikuji/AddMeOnDiscord.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taichikuji/discordid/issues"
+    "url": "https://github.com/taichikuji/AddMeOnDiscord/issues"
   },
-  "homepage": "https://github.com/taichikuji/discordid#readme",
+  "homepage": "https://github.com/taichikuji/AddMeOnDiscord#readme",
   "dependencies": {
     "node-fetch": "^3.3.2"
   }

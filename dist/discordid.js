@@ -37,7 +37,7 @@ async function getData() {
         document.getElementById("UrlImage").style = "background-image: url(https://cdn.discordapp.com/avatars/" + data.id + "/" + data.avatar + ".webp);";
     } else {
         document.getElementById("Square").innerHTML =
-            "<span>Hello! This is a website that shows your profile!.<br/>You're visiting the site without an ID, please visit the wiki for more info <a href='https://github.com/taichikuji/discordid/wiki'>「here」</a></span>";
+            "<span>Hello! This is a website that shows your profile!.<br/>You're visiting the site without an ID, please visit the wiki for more info <a href='https://github.com/taichikuji/AddMeOnDiscord/wiki'>「here」</a></span>";
     }
 }
 
